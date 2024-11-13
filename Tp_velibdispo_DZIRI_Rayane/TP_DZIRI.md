@@ -31,7 +31,7 @@ Ce sous-arbre montre différents niveaux de classification sur la base de la cap
 Si faux (à droite), il évalue Vélos électriques disponibles <= 0.5 puis Vélos mécaniques disponibles <= 0.5 et un autre critère de capacité pour déterminer l’opérationnalité.
 
 
-##Conclusion :
+## Conclusion :
 En conclusion, ces arbres de décision permettent d’analyser efficacement la disponibilité et l’opérationnalité des stations de vélos en tenant compte de critères essentiels comme la présence de bornettes libres, la disponibilité des vélos (électriques et mécaniques) et la capacité des stations. Chaque arbre répond à une question spécifique : l'accessibilité des bornettes, la disponibilité des vélos et l'état de fonctionnement de la station. Ensemble, ils offrent une vue d'ensemble utile pour optimiser la gestion des stations de vélos et améliorer l’expérience des usagers en assurant la disponibilité des ressources nécessaires.
 
 ## Etapes du TP
